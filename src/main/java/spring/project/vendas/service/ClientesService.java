@@ -11,7 +11,7 @@ public class ClientesService {
     //  declarando variavel do tipo ClientesRepository
     private final ClientesRepository clientesRepository;
 
-    // injeção de depéndencia usando construtor
+    // injeção de dependencia usando construtor
     public ClientesService(ClientesRepository clientesRepository){
         this.clientesRepository = clientesRepository;
     }

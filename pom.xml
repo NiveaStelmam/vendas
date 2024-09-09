@@ -11,7 +11,7 @@
 	<groupId>spring.project</groupId>
 	<artifactId>vendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sales</name>
+	<name>vendas</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
